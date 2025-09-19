@@ -6,6 +6,15 @@
 - Screenshot overview: `docs/screenshots/01_overview.png`
 - Profitability deep-dive: `docs/screenshots/02_profitability.png`
 - Model diagram: `docs/model-diagram.png`
+  
+![Dashboard Demo](docs/screenshots/Demo.gif)
+
+This short demo showcases key interactive features of the Power BI dashboard:
+- Slicer selection for dynamic filtering
+- Bookmark navigation to toggle views
+- Tooltip hover for contextual insights
+Designed for clarity, speed, and self-service exploration—ideal for portfolio presentation and interview readiness.
+
 
 ## How to run
 1. Download/clone this repository.
