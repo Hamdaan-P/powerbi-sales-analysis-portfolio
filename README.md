@@ -38,6 +38,9 @@ Roughly 20% of customers contribute ~80% of total sales, underscoring the import
 3.Regional profitability imbalance
 APAC and EU regions show strong sales growth, but profitability varies widely by sub-category — some product lines in high-growth markets generate very low or even negative margins.
 
+## Model diagram:
+ “Star schema: Orders (fact) linked to Date & People (dimensions)”.
+
 
 
 ## DAX & Model
